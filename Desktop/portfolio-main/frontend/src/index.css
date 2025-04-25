@@ -1,0 +1,16 @@
+
+@import 'tailwindcss'
+/* Custom styles come AFTER the Tailwind imports */
+
+/* @keyframes gridMove {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 40px 40px;
+  }
+}
+
+.grid-animate {
+  animation: gridMove 30s linear infinite;
+} */
